@@ -4,6 +4,11 @@
 * Ruby: 2.7.4
 * Project: 1.0.0
 
+## Usage
+* ruby console.rb
+* ruby console.rb -persisted file_name
+  * Add automatic persistence to the program so that folders, files and users created during the execution of the program are saved inside a file with yaml format
+
 ## Available Commands
 * cd -> Move user from one directory to another
   * Usage: cd
